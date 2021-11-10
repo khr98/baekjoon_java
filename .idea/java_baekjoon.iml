@@ -2,7 +2,14 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/src">
+      <sourceFolder url="file://$MODULE_DIR$/src/ejang" isTestSource="false" packagePrefix="baekjoon" />
+      <sourceFolder url="file://$MODULE_DIR$/src/hyerkim/math1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ybong/math1/1193_Fraction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ybong/math1/1712_BreakEvenPoint" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ybong/math1/2292_Honeycomb" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ybong/math1/2869_Snail" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
